@@ -1,3 +1,5 @@
+// Snake Game v1.0.0
+
 var KEY_LEFT_ARROW = 37;
 var KEY_UP_ARROW = 38;
 var KEY_RIGHT_ARROW = 39;
@@ -110,7 +112,7 @@ function game() {
 	apple.draw();
 	snake.draw();
 	
-	updateScore()
+	updateScore();
 }
 
 function drawBackground() {
