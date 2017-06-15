@@ -18,4 +18,4 @@ Coding language: JavaScript
 5. User interface
 
 # Known bugs
-(00001) - It is possible to move snake to opposite direction if you fast enough press keys.
+(00001) - It is possible to move snake to opposite direction if you press keys fast enough.
