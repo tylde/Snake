@@ -191,7 +191,7 @@ function updateScore() {
 	var stringScore = 'Score: ' + score;
 	div.textContent = stringScore;
 }
-
+ 
 // ===== START GAME ===================================
 
 initialization();
