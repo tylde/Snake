@@ -11,6 +11,7 @@ Coding language: JavaScript
 ### v1.0.1 - 16.06.2017
 New features:
 - Added code encapsulation. Now it is not possible to modify game objects and variables from console.
+
 Bug Fixes:
 - (00001) - It is possible to move snake to opposite direction if you press keys fast enough.
 
