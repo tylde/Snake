@@ -8,6 +8,12 @@ The player controls a dot, square, or object on a bordered plane. As it moves fo
 Coding language: JavaScript
 
 # Version History
+### v1.0.1 - 16.06.2017
+New features:
+- Added code encapsulation. Now it is not possible to modify game objects and variables from console.
+Bug Fixes:
+- (00001) - It is possible to move snake to opposite direction if you press keys fast enough.
+
 ### v1.0.0 - Released 15.06.2017
 
 # RoadMap
@@ -18,4 +24,4 @@ Coding language: JavaScript
 5. User interface
 
 # Known bugs
-(00001) - It is possible to move snake to opposite direction if you press keys fast enough.
+none
