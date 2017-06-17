@@ -3,29 +3,29 @@
 }
 
 #snake-container {
-	position: absolute;
-	top: 50%;
-	margin-top: -300px;
-	left: 50%;
-	margin-left: -250px;
+    position: absolute;
+    top: 50%;
+    margin-top: -300px;
+    left: 50%;
+    margin-left: -250px;
 }
 
 #snake-container-game {
-	width: 500px;
-	height: 500px;
-	background-color: white;
-	border: 2px solid crimson;
-	border-bottom: 1px solid crimson;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border: 2px solid crimson;
+    border-bottom: 1px solid crimson;
 }
 
 #snake-container-score {
-	width: 440px;
-	height: 40px;
-	background-color: floralwhite;
-	border: 2px solid crimson;
-	border-top: 1px solid crimson;
-	color: crimson;
-	font-size: 30px;
-	text-align: center;
-	padding: 30px;
+    width: 440px;
+    height: 40px;
+    background-color: floralwhite;
+    border: 2px solid crimson;
+    border-top: 1px solid crimson;
+    color: crimson;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
 }
